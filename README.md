@@ -17,7 +17,7 @@ Here are the step to creating a Discord Bot account.
 
 5. Go to the “Bot” tab and then click “Add Bot”. You will have to confirm by clicking "Yes, do it!"
 
-[gg](https://i.imgur.com/zUEYfpV.png)
+![gg](https://i.imgur.com/zUEYfpV.png)
 
 Keep the default settings for Public Bot (checked) and Require OAuth2 Code Grant (unchecked).
 
