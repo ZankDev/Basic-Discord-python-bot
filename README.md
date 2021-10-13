@@ -17,13 +17,13 @@ Here are the step to creating a Discord Bot account.
 
 5. Go to the “Bot” tab and then click “Add Bot”. You will have to confirm by clicking "Yes, do it!"
 
-!(G)[https://i.imgur.com/zUEYfpV.png]
+[gg](https://i.imgur.com/zUEYfpV.png)
 
 Keep the default settings for Public Bot (checked) and Require OAuth2 Code Grant (unchecked).
 
 Your bot has been created. The next step is to copy the token.
 
-!(D)[https://i.imgur.com/F5jx7R3.png]
+![D](https://i.imgur.com/F5jx7R3.png)
 
 This token is your bot's password so don't share it with anybody. It could allow someone to log in to your bot and do all sorts of bad things.
 
